@@ -7,6 +7,7 @@
 | [0053-maximum-subarray](https://github.com/shubhammanve54/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhammanve54/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhammanve54/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/shubhammanve54/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/shubhammanve54/DSA/tree/master/0283-move-zeroes) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shubhammanve54/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -51,4 +52,13 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhammanve54/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/shubhammanve54/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shubhammanve54/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shubhammanve54/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
