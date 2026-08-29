@@ -46,18 +46,21 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhammanve54/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/shubhammanve54/DSA/tree/master/0125-valid-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shubhammanve54/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shubhammanve54/DSA/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shubhammanve54/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhammanve54/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shubhammanve54/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shubhammanve54/DSA/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhammanve54/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/shubhammanve54/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shubhammanve54/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shubhammanve54/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/shubhammanve54/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shubhammanve54/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
