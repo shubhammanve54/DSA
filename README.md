@@ -49,6 +49,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhammanve54/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/shubhammanve54/DSA/tree/master/0125-valid-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhammanve54/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/shubhammanve54/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/shubhammanve54/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/shubhammanve54/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shubhammanve54/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -75,4 +76,16 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shubhammanve54/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/shubhammanve54/DSA/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/shubhammanve54/DSA/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/shubhammanve54/DSA/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
