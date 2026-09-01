@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shubhammanve54/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shubhammanve54/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhammanve54/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhammanve54/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhammanve54/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/shubhammanve54/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/shubhammanve54/DSA/tree/master/0125-valid-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhammanve54/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/shubhammanve54/DSA/tree/master/0459-repeated-substring-pattern) |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhammanve54/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/shubhammanve54/DSA/tree/master/0049-group-anagrams) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhammanve54/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shubhammanve54/DSA/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -88,4 +91,8 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/shubhammanve54/DSA/tree/master/0459-repeated-substring-pattern) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/shubhammanve54/DSA/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
