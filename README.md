@@ -32,6 +32,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shubhammanve54/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shubhammanve54/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -50,6 +51,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhammanve54/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/shubhammanve54/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/shubhammanve54/DSA/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/shubhammanve54/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhammanve54/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/shubhammanve54/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/shubhammanve54/DSA/tree/master/0567-permutation-in-string) |
@@ -60,6 +62,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhammanve54/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/shubhammanve54/DSA/tree/master/0049-group-anagrams) |
+| [0387-first-unique-character-in-a-string](https://github.com/shubhammanve54/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhammanve54/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shubhammanve54/DSA/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -95,4 +98,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shubhammanve54/DSA/tree/master/0049-group-anagrams) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shubhammanve54/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
